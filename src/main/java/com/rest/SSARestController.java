@@ -32,7 +32,7 @@ public class SSARestController {
 
 			return "washington";
 
-		} else if (ssn.startsWith("")) {
+		} else if (ssn.startsWith("1")) {
 
 			return "Texas";
 		}
