@@ -39,7 +39,7 @@ public class SSARestController {
 
 		else {
 
-			return "You have  enter Invalid State Name";
+			return "Sorry...You have  enter Invalid State Name";
 		}
 		
 		
